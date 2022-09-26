@@ -1,9 +1,9 @@
-public class AyeshaSabir{
+public class AbdulRafay{
      
      String name;
 
-     AyeshaSabir(){
-       this.name = " Ayesha Sabir Hussain";
+     AbdulRafay(){
+       this.name = " Abdul Rafay";
      }
 
      void tableWithForLoop(){
@@ -45,7 +45,7 @@ public class AyeshaSabir{
     }
 
 public static void main(String args[]){
-    AyeshaSabir table = new AyeshaSabir();
+    AbdulRafay table = new AbdulRafay();
     System.out.println(table.name) ;
     // table.tableWithForLoop();
     table.tablewithWhileLoop();
